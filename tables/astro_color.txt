@@ -1,0 +1,18 @@
+yellow,#ffc801
+pink,#fd4dd0
+olive,#a5a715
+lightblue,#3d95ed
+darkblue,#01319c
+grey,#a4a4a7
+orange,#e85a01
+
+dslr,diamond
+astro,davidstar
+compact,circle
+phone,square
+mirrorless,asterisk
+bridge,triangle
+
+"#01319c" "#e85a01" "#ffc801" "#3d95ed" "#a5a715" "#a4a4a7" "#fd4dd0"
+
+"#01319c" "#a5a715" "#ffc801" "#3d95ed" "#a4a4a7" "#e85a01" "#fd4dd0"

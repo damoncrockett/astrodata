@@ -1,0 +1,38 @@
+language,translation
+english,astrophotography
+spanish,astrofotografía
+arabic,التصوير الفلكي
+afrikaans,Astro
+basque,astroargazkigintzaren
+belarusian,астрафатаграфіі
+bengali,মহাকাশ আলোকচিত্র
+bosnian/croatian,astrofotografija
+bulgarian/russian,астрофотография
+catalan/galician/italian/portugese,astrofotografia
+chinese,天文摄影
+corsican,Luna
+czech/polish/slovak,astrofotografii
+danish,astrofotografering
+dutch/romanian,astrofotografie
+estonian,astrofotograafias
+french,astrophotographie
+german,Astrofotografie
+greek,αστροφωτογράφηση
+haitian creole/sudanese,astrofotografi
+hebrew,אסטרונומי
+hungarian,csillagászati
+icelandic,stjörnuljósmyndakeppni
+irish,Astrophotography
+japanese,天体写真
+korean,천체
+latvian,astrofotogrāfija
+lithuanian/slovenian,Astrofotografija
+luxembourgish,Spektrographie
+norwegian/swedish,astro
+pashto,ستورپوهنې
+persian,عکس برداری از ستارگان برای تحقیقات فضایی
+serbian,астрофотографија
+sinhala,තාරකා ඡායාරූප
+ukranian,астрофотографія
+urdu,astrophotography کے
+yiddish,אַסטראָפאָטאָגראַפי
